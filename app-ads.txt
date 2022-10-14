@@ -506,3 +506,15 @@ advertising.com,28246,RESELLER
 axonix.com,57716,RESELLER
 gamaigroup.com,320201,RESELLER
 pubmatic.com,155975,RESELLER,5d62403b186f2ace
+smartadserver.com, 4016, RESELLER
+openx.com, 541056459, RESELLER, 6a698e2ec38604c6
+Blis.com, 33, RESELLER, 61453ae19a4b73f4
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+pubmatic.com, 156494, RESELLER, 5d62403b186f2ace
+bksn.se, 9d7a47c4-cfb9-4828-a4fb-7c328d69464b, RESELLER
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+adform.com, 2742, RESELLER
+algorix.co, 54190, RESELLER, 5b394c12fea27a1d
+outbrain.com, 00b7ea45470d8fb01743e66d0481f459ac, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d117s
