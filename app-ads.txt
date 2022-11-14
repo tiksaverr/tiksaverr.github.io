@@ -412,6 +412,9 @@ improvedigital.com, 1863, RESELLER
 freewheel.tv, 1220655, RESELLER 
 yahoo.com, 59052, RESELLER 
 risecodes.com,6022acddc8b2f90001767980, RESELLER
+#pangle
+pangleglobal.com, 85147, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #Makroo
 google.com, pub-9941782557387032, RESELLER, f08c47fec0942fa0
 makroo.com, 22602993809, DIRECT
