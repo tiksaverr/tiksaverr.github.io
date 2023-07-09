@@ -239,7 +239,11 @@ meitu.com, 699, RESELLER
 video.unrulymedia.com, 115018688080045007, RESELLER
 #mintegral
 smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4573, RESELLER, 060d053dcf45cbf3
+videoheroes.tv, 212581, RESELLER, 064bc410192443d8
+sonobi.com, c58cf86903, RESELLER, d1a215d9eb5aee9e
+improvedigital.com, 1805, RESELLER
+Contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
+criteo.com, B-064322, RESELLER, 9fac4a4a87c2a44f
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 videoheroes.tv, 212503, RESELLER, 064bc410192443d8
@@ -643,6 +647,9 @@ pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #unity
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+google.com, pub-2122622612748492, RESELLER, f08c47fec0942fa0
+pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+Xapads.com, 155860, RESELLER
 adelement.com, 30167, RESELLER
 admanmedia.com, 613, RESELLER
 admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
